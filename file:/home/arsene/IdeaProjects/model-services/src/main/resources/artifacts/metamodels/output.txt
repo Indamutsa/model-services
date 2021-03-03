@@ -1,0 +1,89 @@
+Linux 5.4.0-65-generic
+Java HotSpot(TM) 64-Bit Server VM 15.0.2+7-27
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Logical processors: 8
+Xms: 80 MB
+Xmx: 3966 MB
+Starting execution at Feb 24, 2021, 3:48:46 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Profiled processes:
+Parsing script: 002 (2 ms), 0 MB
+Loading model(s): 229 (229 ms), 14 MB
+GARBAGE_COLLECTION: 148 (148 ms), 0 MB
+execute(): 012 (12 ms), 0 MB
+
+Finished at Feb 24, 2021, 3:48:46 PM
+-----------------------------------------------------
+Linux 5.4.0-65-generic
+Java HotSpot(TM) 64-Bit Server VM 15.0.2+7-27
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Logical processors: 8
+Xms: 80 MB
+Xmx: 3966 MB
+Starting execution at Feb 24, 2021, 3:49:21 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Profiled processes:
+Parsing script: 003 (3 ms), 0 MB
+Loading model(s): 210 (210 ms), 15 MB
+GARBAGE_COLLECTION: 161 (161 ms), 0 MB
+execute(): 011 (11 ms), 0 MB
+
+Finished at Feb 24, 2021, 3:49:22 PM
+-----------------------------------------------------
+Linux 5.4.0-65-generic
+Java HotSpot(TM) 64-Bit Server VM 15.0.2+7-27
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Logical processors: 8
+Xms: 80 MB
+Xmx: 3966 MB
+Starting execution at Feb 24, 2021, 3:50:04 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Profiled processes:
+Parsing script: 002 (2 ms), 0 MB
+Loading model(s): 200 (200 ms), 14 MB
+GARBAGE_COLLECTION: 138 (138 ms), 0 MB
+execute(): 017 (17 ms), 2 MB
+
+Finished at Feb 24, 2021, 3:50:04 PM
+-----------------------------------------------------
+Linux 5.4.0-65-generic
+Java HotSpot(TM) 64-Bit Server VM 15.0.2+7-27
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Logical processors: 8
+Xms: 88 MB
+Xmx: 3966 MB
+Starting execution at Feb 24, 2021, 3:51:45 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Profiled processes:
+Parsing script: 002 (2 ms), 0 MB
+Loading model(s): 196 (196 ms), 15 MB
+GARBAGE_COLLECTION: 151 (151 ms), 0 MB
+execute(): 012 (12 ms), 0 MB
+
+Finished at Feb 24, 2021, 3:51:46 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Result: 
+null
+-----------------------------------------------------
+Linux 5.4.0-65-generic
+Java HotSpot(TM) 64-Bit Server VM 15.0.2+7-27
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Logical processors: 8
+Xms: 80 MB
+Xmx: 3966 MB
+Starting execution at Feb 24, 2021, 3:53:40 PM
+-----------------------------------------------------
+-----------------------------------------------------
+Profiled processes:
+Parsing script: 002 (2 ms), 0 MB
+Loading model(s): 178 (178 ms), 14 MB
+GARBAGE_COLLECTION: 153 (153 ms), 0 MB
+execute(): 010 (10 ms), 0 MB
+
+Finished at Feb 24, 2021, 3:53:41 PM
+-----------------------------------------------------
